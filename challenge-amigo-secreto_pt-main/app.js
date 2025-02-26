@@ -48,7 +48,7 @@ const sortearAmigo = (amigos) => {
 }
 
 const exibirSorteado = (amigo) => {
-
+    // Ira selecionar o amigo sorteado e exibira na tela 
     const resultadoLista = document.getElementById('resultado');
     resultadoLista.innerHTML = " "; // Limpa do sorteio anterior resultado anteriar 
 
