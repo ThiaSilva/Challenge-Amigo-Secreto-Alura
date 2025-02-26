@@ -1,76 +1,62 @@
 # Challenge-Amigo-Secreto-Alura
 ----------------------------------------------------------------
-🎁 Sorteador de Amigo Secreto
+# 🎁 Sorteador de Amigo Secreto
 
 Este projeto é um sorteador de amigo secreto simples e interativo, desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários adicionem nomes à lista e realizem um sorteio aleatório.
 
-🚀 Demonstração
+## 🚀 Demonstração
 
+![IkmESxw](https://github.com/user-attachments/assets/45f7521d-5708-4fda-939f-0e0e2d0d151e)
 
-
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 - Adicionar nomes à lista
-
 - Sortear um amigo secreto aleatoriamente
-
 - Exibir o resultado do sorteio na tela
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-HTML5
 
-CSS3
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-JavaScript (ES6)
+## 📂 Estrutura do Projeto
 
-📂 Estrutura do Projeto
-
-📁 amigo-secreto
-│-- 📁 assets (Imagens e GIFs)
-│-- 📄 index.html (Estrutura do site)
-│-- 📄 style.css (Estilização do site)
-│-- 📄 app.js (Lógica do sorteio)
-│-- 📄 README.md (Este arquivo)
+![Captura de tela 2025-02-26 143449](https://github.com/user-attachments/assets/3a89778d-a5e0-44a2-ab71-e44759d4bb11)
 
 🎯 Como Usar
 
-Clone este repositório:
+1. Clone este repositório:
 
 git clone https://github.com/seu-usuario/amigo-secreto.git
 
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 
 cd amigo-secreto
 
-Abra o index.html no navegador.
+3. Abra o index.html no navegador.
 
-Digite os nomes dos participantes e clique em "Adicionar".
+4. Digite os nomes dos participantes e clique em "Adicionar".
 
-Após adicionar todos os nomes, clique em "Sortear amigo".
+5. Após adicionar todos os nomes, clique em "Sortear amigo".
 
-Veja o resultado na tela! 🎉
+6. Veja o resultado na tela! 🎉
 
 📸 Exemplo de Uso
 
-Adicione os participantes
+- Adicione os participantes 
 
-
-Realize o sorteio
-
+- Realize o sorteio
 
 📝 Melhorias Futuras
 
-Permitir remover nomes da lista
+- Permitir remover nomes da lista
 
-Adicionar opção de salvar os resultados
+- Adicionar opção de salvar os resultados
 
-Melhorar a responsividade para dispositivos móveis
+- Melhorar a responsividade para dispositivos móveis
 
 🤝 Contribuições
 
 Sinta-se à vontade para abrir uma issue ou enviar um pull request! Qualquer ajuda para melhorar o projeto é bem-vinda. 😃
-
-📜 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
