@@ -1,4 +1,4 @@
-# Challenge-Amigo-Secreto-Alura
+# Challenge Amigo Secreto Alura
 ----------------------------------------------------------------
 # 🎁 Sorteador de Amigo Secreto
 
